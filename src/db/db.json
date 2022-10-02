@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "jhake@email.com",
+      "name": "Jhake",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "email": "ekahj@admin.com",
+      "name": "Jheff",
+      "role": "admin",
+      "id": 6696
+    }
+  ]
+}
